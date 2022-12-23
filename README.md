@@ -1,0 +1,3 @@
+- Oi, eu sou @DaviGLplay.
+- 👀 Estou interessado em desenvolvimento de jogos.s 
+- 🌱 Estou atualmente aprendendo python e C++.
